@@ -1,5 +1,5 @@
-# (Titlu)
-(Scurtă descriere)
+# Adaptive Metro
+Adaptive Metro este o aplicatie care isi propune sa adapteze viteza unui metronom in functie de precizia cu care executi exercitii de metrica. 
 
 ## (Instalare)
 ...
@@ -9,7 +9,8 @@
 
 ## (Istoric)
 
-(13.05) ...
+(13.05) ...![AdaptivMetro](https://github.com/ValiFilip/PCON-proiect-final/assets/135156619/f493dec8-6168-4b56-a47f-f2bbddbcea0c)
+
 
 (3.06) ...
 
