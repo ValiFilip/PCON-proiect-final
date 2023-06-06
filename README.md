@@ -48,6 +48,8 @@ Cadranul stanga-jos: Indică în timp real „Targetul” și bpm-ul „Current�
  - adaptare metrică la măsuri compuse
  - indicare în timp real pe bază de coduri de culoare
  - ajustarea valorii pasului
+ - selectarea unei valori maxime
+ - un mod „manual” în care îți alegi singur care va fi traseul de ajustare
 
 
 ## (Link-uri)
