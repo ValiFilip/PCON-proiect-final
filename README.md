@@ -24,9 +24,13 @@ Descarcă fisierul „Metronom adaptiv.zip”, dezarhivează și folosește.
 
 ## (Utilizare)
 Interfața folosește 4 cadrane:
+
 Cadranul dreapta-sus: Activează microfonul și playoutul și tot aici poți selecta driverele și matricile. 
+
 Cadranul stanga-sus: Selectezi bpm-ul de pornire. Butonul on/off. 
+
 Cadranul dreapta-jos: Selectezi recurența cu care aplicația verifică și ajustează bpm-ul. Pentru dezactivarea funcției de ajustare, selectează „inf”. 
+
 Cadranul stanga-jos: Indică în timp real „Targetul” și bpm-ul „Current”, cât și în ce sens activează ajustarea: roșu pentru ajustare în jos, albastru pentru ajustarea în sus. 
 
 ![AdaptivMetro](https://github.com/ValiFilip/PCON-proiect-final/assets/135156619/5d3ef937-4382-4965-ab33-2c327d27a486)
