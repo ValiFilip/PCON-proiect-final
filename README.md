@@ -19,7 +19,8 @@ Când vei reporni Max, orice nou obiect pe care îl adaugi în folder vor fi dis
 Pentru alte informații, vezi linkul:
 http://www.maxobjects.com/?v=objects&id_objet=3798&requested=beat&operateur=AND&id_plateforme=0&id_format=0 
 
-Descarcă fișierul audio downClave.wave în fișierul proiectului. 
+Descarcă fisierul „Metronom Adaptiv.zip”, dezarhivează și folosește. 
+
 
 ## (Utilizare)
 Interfața folosește 4 cadrane:
