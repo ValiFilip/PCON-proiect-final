@@ -11,10 +11,15 @@ Windows 8 or later
 4 GB RAM (8 GB or more recommended)
 
 Instalare op.beatitude~
+
 Descarcă op.beatitude~ de pe pagina creatorului Olivier Pasquet: https://www.opasquet.fr/dl/
-Crează un folder cu denumirea Max Objects(sau poti alege propria denumire) pe PC. 
+
+Crează un folder cu denumirea Max Objects(sau poti alege propria denumire) pe PC.
+
 În Max, selecteaza „Oprions>File Preferences” și adaugă noul folder în „Search Path”.
+
 Când vei reporni Max, orice nou obiect pe care îl adaugi în folder vor fi disponibile. 
+
 
 Pentru alte informații, vezi linkul:
 http://www.maxobjects.com/?v=objects&id_objet=3798&requested=beat&operateur=AND&id_plateforme=0&id_format=0 
@@ -43,9 +48,11 @@ Cadranul stanga-jos: Indică în timp real „Targetul” și bpm-ul „Current�
 
 ## (Link-uri)
 https://www.youtube.com/watch?v=Y4YLy7kqcr8&ab_channel=Ableton 
-http://www.maxobjects.com/?v=objects&id_objet=3798&requested=beat&operateur=AND&id_plateforme=0&id_format=0![Uploading AdaptivMetro.png…]()
-https://www.opasquet.fr/dl/
+
+http://www.maxobjects.com/?v=objects&id_objet=3798&requested=beat&operateur=AND&id_plateforme=0&id_format=0
+
 https://docs.cycling74.com/max8/refpages/tempo
+
 https://www.opasquet.fr/op-beatitude/
 
 
