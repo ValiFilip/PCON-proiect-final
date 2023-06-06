@@ -19,6 +19,8 @@ Când vei reporni Max, orice nou obiect pe care îl adaugi în folder vor fi dis
 Pentru alte informații, vezi linkul:
 http://www.maxobjects.com/?v=objects&id_objet=3798&requested=beat&operateur=AND&id_plateforme=0&id_format=0 
 
+Descarcă fișierul audio downClave.wave în fișierul proiectului. 
+
 ## (Utilizare)
 Interfața folosește 4 cadrane:
 Cadranul dreapta-sus: Activează microfonul și playoutul și tot aici poți selecta driverele și matricile. 
