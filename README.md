@@ -44,6 +44,10 @@ Cadranul stanga-jos: Indică în timp real „Targetul” și bpm-ul „Current�
 ## (Istoric)
 (01.00) - Aplicația este funcțională.
 
+În viitor:
+ - adaptare metrică la măsuri compuse
+ - indicare în timp real pe bază de coduri de culoare
+ - ajustarea valorii pasului
 
 
 ## (Link-uri)
