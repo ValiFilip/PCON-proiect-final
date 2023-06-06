@@ -29,6 +29,9 @@ Cadranul stanga-sus: Selectezi bpm-ul de pornire. Butonul on/off.
 Cadranul dreapta-jos: Selectezi recurența cu care aplicația verifică și ajustează bpm-ul. Pentru dezactivarea funcției de ajustare, selectează „inf”. 
 Cadranul stanga-jos: Indică în timp real „Targetul” și bpm-ul „Current”, cât și în ce sens activează ajustarea: roșu pentru ajustare în jos, albastru pentru ajustarea în sus. 
 
+![AdaptivMetro](https://github.com/ValiFilip/PCON-proiect-final/assets/135156619/5d3ef937-4382-4965-ab33-2c327d27a486)
+
+
 ## (Istoric)
 (01.00) - Aplicația este funcțională.
 
@@ -36,7 +39,7 @@ Cadranul stanga-jos: Indică în timp real „Targetul” și bpm-ul „Current�
 
 ## (Link-uri)
 https://www.youtube.com/watch?v=Y4YLy7kqcr8&ab_channel=Ableton 
-http://www.maxobjects.com/?v=objects&id_objet=3798&requested=beat&operateur=AND&id_plateforme=0&id_format=0
+http://www.maxobjects.com/?v=objects&id_objet=3798&requested=beat&operateur=AND&id_plateforme=0&id_format=0![Uploading AdaptivMetro.png…]()
 https://www.opasquet.fr/dl/
 https://docs.cycling74.com/max8/refpages/tempo
 https://www.opasquet.fr/op-beatitude/
