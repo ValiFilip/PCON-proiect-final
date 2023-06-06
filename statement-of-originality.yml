@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Marius-Valentin Filip
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -18,9 +18,9 @@ collaboration:
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
+  - comment: beat tracker – onset detection – tempo tracker op.beatitude~ is an abstraction empirically set for beat tracking and onset detection based on Bark spectrum. It can replace the Tristan Jehan beat~.
+    url: https://www.opasquet.fr/op-beatitude/
+    licence: 
 
 
 # add as many "url+licence+comment" entries as necessary
