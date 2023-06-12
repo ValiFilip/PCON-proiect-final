@@ -28,6 +28,8 @@ Descarcă fisierul „Metronom adaptiv.zip”, dezarhivează și folosește.
 
 
 ## (Utilizare)
+Pentru rezultatele dorite este necesar sa folositi casti si o captare fara zgomot a instrumentului. 
+
 Interfața folosește 4 cadrane:
 
 Cadranul dreapta-sus: Activează microfonul și playoutul și tot aici poți selecta driverele și matricile. 
