@@ -44,7 +44,8 @@ Cadranul stanga-jos: Indică în timp real „Targetul” și bpm-ul „Current�
 
 
 ## (Istoric)
-(01.00) - Aplicația este funcțională.
+(01.01 / 16.06.2023) - Corectii in patch. 
+(01.00 / 2023) - Aplicația este funcțională. 
 
 În viitor:
  - adaptare metrică la măsuri compuse
